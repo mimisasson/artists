@@ -1,0 +1,75 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    color:#4641f4;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color:blue;
+    font-family: 'Raleway', sans-serif;
+}2
+
+#aless {
+}
+
+h3 {
+    color:red;
+font-family: 'Nunito', sans-serif;
+}
+
+h4 {
+    color:purple;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#shawn {
+    background-color:lime;
+}
+
+#shawn:hover {
+    background-color: #54d854;
+}
+
+#lil {
+    background-color:orange;
+}
+
+#lil:hover {
+background-color:#ff8330
+
+#drizzy {
+    background-color:gray;
+}
+
+
+#yacht {
+    background-color:#7b84c4;
+}
+
+#sel {
+    background-color:#d34c8b;
+}
+
+#zendaya {
+    background-color:#d2d04c;
+}
+
+#zayn {
+    background-color:#4cd157;
+}
+ img {
+     border-radius: 50%;
+     display: block;
+     margin:0 auto;
+     border:5px solid white;
+ }
+ 
+ 
